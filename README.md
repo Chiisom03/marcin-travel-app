@@ -1,14 +1,19 @@
-# travel
+# marcin travel
 
-A new Flutter project.
+Learning to make animation in flutter projects
 
-## Getting Started
+## Lessons
 
-This project is a starting point for a Flutter application.
+There was so much fun in making this app.
+Wish to learn more from marcin szalec, and thanks to theodore_mca for introducing this kind tutor
+
+Some of the concepts I learnt includes :
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- Flutter Notifiers,
+- Use of Providers,
+
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
